@@ -13,7 +13,6 @@ For e-commerce platforms, an essential question is whether a customer is just br
 + Classification
 + Exploratory Data Analysis
 + Modeling
-
 <br>
 
 #### Dataset Information:
@@ -28,6 +27,7 @@ This project uses the Online Shoppers Purchasing Intention Dataset, which was co
 
 Bounce rate refers to the percentage of single-session visits, while exit rate indicates the percentage of exits from a specific page. The former is calculated by dividing the number of one-page visits by the total number of entrance visits, whereas the latter is calculated by dividing the number of exits from a page by the total visits to that page. Although both metrics are related, a key difference is that the exit rate accounts for the percentage of visitors who exited during their final session, whereas bounce rate only considers those who interacted in a single session. Therefore, bounce rate does not take prior activity into account. This means that all bounces are technically exits, but not all exits are bounces.
 
+![image](https://github.com/user-attachments/assets/e755470b-afef-4737-86ba-cd1ebba7bb6b)
 
 #### Implications of High Bounce and Exit Rates: 
 
