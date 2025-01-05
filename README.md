@@ -34,6 +34,12 @@ Bounce rate refers to the percentage of single-session visits, while exit rate i
 
 A high bounce rate could signal issues with user experience, such as poor website design, slow page load times, or other technical problems. On the other hand, a high exit rate could point to weak areas within sales funnels, where customers leave before completing their purchase. BigCommerce suggests that a bounce rate between 30% and 55% is generally acceptable. Our analysis shows that bounce rates tend to be much lower, often below 10%. According to UpSide Business, a bounce rate under 5% could indicate a potential issue, such as duplicate Google Analytics tracking codes, which requires further investigation. If no technical errors are found, efforts should be focused on optimizing bounce rates and exit rates to protect sales and customer loyalty.
 
+#### Modeling
++ Logistic Regression
++ Random Forest
++ AdaBoost
++ Hyperparameter Tuning for Logistic Regression
+
 
 ![image](https://github.com/user-attachments/assets/443870b0-915f-40e2-bcae-c27f1ef8c8c2)
 
