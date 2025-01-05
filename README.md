@@ -45,6 +45,7 @@ A high bounce rate could signal issues with user experience, such as poor websit
 ![image](https://github.com/user-attachments/assets/443870b0-915f-40e2-bcae-c27f1ef8c8c2)
 
 
+
 ![image](https://github.com/user-attachments/assets/70e09775-7220-46e6-bce8-5e14f6d975cd)
 
 
