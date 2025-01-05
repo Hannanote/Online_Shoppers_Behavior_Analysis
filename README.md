@@ -37,8 +37,9 @@ A high bounce rate could signal issues with user experience, such as poor websit
 #### Modeling
 + Logistic Regression
 + Random Forest
++ Decision Tree
 + AdaBoost
-+ Hyperparameter Tuning for Logistic Regression
++ Hyperparameter Tuning for Logistic Regression (RandomizedSearch CV)
 
 
 ![image](https://github.com/user-attachments/assets/443870b0-915f-40e2-bcae-c27f1ef8c8c2)
