@@ -63,14 +63,14 @@ A high bounce rate could signal issues with user experience, such as poor websit
 ![image](https://github.com/user-attachments/assets/70e09775-7220-46e6-bce8-5e14f6d975cd)
 
 Model Evaluation (Random Forest Classifier):
-Accuracy: 0.885
-Specificity: 0.962
-Recall: 0.504
-Precision: 0.724
-F1-Score: 0.594
-ROC-AUC: 0.73
+- Accuracy: 0.885
+- Specificity: 0.962
+- Recall: 0.504
+- Precision: 0.724
+- F1-Score: 0.594
+- ROC-AUC: 0.73
 
-
+<img src='https://github.com/user-attachments/assets/e934d83a-1f32-4dbc-b6b0-c1aae23976ca' width='500px' height='400px'>
 ![image](https://github.com/user-attachments/assets/e934d83a-1f32-4dbc-b6b0-c1aae23976ca)
 
 #### Feature Importance:
