@@ -70,7 +70,7 @@ Model Evaluation (Random Forest Classifier):
 - F1-Score: 0.594
 - ROC-AUC: 0.73
 
-<img src='https://github.com/user-attachments/assets/e934d83a-1f32-4dbc-b6b0-c1aae23976ca' width='500px' height='500px'>
+<img src='https://github.com/user-attachments/assets/e934d83a-1f32-4dbc-b6b0-c1aae23976ca' width='700px' height='400px'>
 
 ![image](https://github.com/user-attachments/assets/e934d83a-1f32-4dbc-b6b0-c1aae23976ca)
 
