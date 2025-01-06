@@ -81,6 +81,10 @@ This project demonstrates the power of machine learning in understanding consume
 
 The Random Forest classifier emerged as the most accurate model, achieving high accuracy and specificity. The feature importance analysis highlighted the importance of session-related information in predicting purchase behavior.
 
+#### Next Steps:
+Scalability: Explore the scalability of the model with larger datasets.
+Real-Time Prediction: Implement real-time prediction systems for e-commerce platforms.
+Advanced Models: Investigate deep learning models for even better performance.
 
 ##### References
 https://archive.ics.uci.edu/dataset/468/online+shoppers+purchasing+intention+dataset
