@@ -59,6 +59,7 @@ A high bounce rate could signal issues with user experience, such as poor websit
 ![image](https://github.com/user-attachments/assets/443870b0-915f-40e2-bcae-c27f1ef8c8c2)
 
 
+<img src='https://github.com/user-attachments/assets/70e09775-7220-46e6-bce8-5e14f6d975cd' width='700px' height='400px'>
 
 ![image](https://github.com/user-attachments/assets/70e09775-7220-46e6-bce8-5e14f6d975cd)
 
@@ -72,7 +73,6 @@ Model Evaluation (Random Forest Classifier):
 
 <img src='https://github.com/user-attachments/assets/e934d83a-1f32-4dbc-b6b0-c1aae23976ca' width='700px' height='400px'>
 
-![image](https://github.com/user-attachments/assets/e934d83a-1f32-4dbc-b6b0-c1aae23976ca)
 
 #### Feature Importance:
 The feature importance plot shows the relative importance of each feature used by the model. In this case, the most important features for predicting purchasing behavior were the page values, such as the pages visited and the time spent on the site.
