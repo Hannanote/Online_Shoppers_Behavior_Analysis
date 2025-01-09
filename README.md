@@ -3,13 +3,7 @@
 
 #### Project Overview:
 
-
-This project explores the online shopping behavior of consumers, focusing on their actions of searching, selecting, purchasing, using, and disposing of goods and services on the internet.
-
-For e-commerce platforms, an essential question is whether a customer is just browsing or is likely to make a purchase. Since customers vary widely in behavior, it’s crucial for sellers to avoid treating all users the same way. By understanding these differences, sellers can better allocate resources to attract and retain customers who are more likely to complete a purchase. Proactive strategies, such as offering time-limited discounts or free trials, can be employed to incentivize buying behavior.
-
-========================================================================== <br>
-Overview: In the world of e-commerce, understanding customer behavior is essential for optimizing sales strategies and improving the user experience. This project explores the online shopping behavior of consumers, focusing on their actions such as searching, selecting, purchasing, using, and disposing of goods and services on the internet.
+In the world of e-commerce, understanding customer behavior is essential for optimizing sales strategies and improving the user experience. This project explores the online shopping behavior of consumers, focusing on their actions such as searching, selecting, purchasing, using, and disposing of goods and services on the internet.
 
 For e-commerce platforms, one of the most crucial questions is whether a customer is just browsing or is actually likely to make a purchase. Customers exhibit highly diverse behaviors, making it important for sellers to understand these differences. By effectively analyzing these behaviors, sellers can better allocate their resources to attract and retain customers who are more likely to convert into buyers. Proactive strategies like offering time-limited discounts or free trials can also incentivize purchasing decisions.
 
