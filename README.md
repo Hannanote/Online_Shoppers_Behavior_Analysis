@@ -33,14 +33,15 @@ The goal of this project is to analyze online shopper behavior and predict their
 
 This project uses the Online Shoppers Purchasing Intention Dataset, which was collected from an online bookstore. The dataset consists of feature vectors representing 12,330 sessions, each corresponding to a unique user session over a 1-year period. The data was designed to minimize biases that could arise from specific campaigns, special days, user profiles, or time periods.
 
-Target Variable: Whether a visitor made a purchase or not. Out of 12,330 sessions, 10,422 did not result in a purchase, while 1,908 did.
+##### Target Variable: 
+Whether a visitor made a purchase or not. Out of 12,330 sessions, 10,422 did not result in a purchase, while 1,908 did.
 
 ![Image](https://github.com/user-attachments/assets/8cf2c958-2753-4e9a-bae0-f3f9a99e2343)
 
 
 <br>
 
-#### Monthly Revenue and Contribution:
+##### Monthly Revenue and Contribution:
 This graph shows the monthly revenue breakdown and the percentage of total revenue for each month:
 
 ![Image](https://github.com/user-attachments/assets/e76d80c6-520d-47ef-b6c3-5099152dad60)
