@@ -69,11 +69,17 @@ Model Evaluation (Random Forest Classifier):
 <br>
 
 
-<img src='https://github.com/user-attachments/assets/e934d83a-1f32-4dbc-b6b0-c1aae23976ca' width='700px' height='400px'>
 
+
+<br>
 
 #### Feature Importance:
 The feature importance plot shows the relative importance of each feature used by the model. In this case, the most important features for predicting purchasing behavior were the page values, such as the pages visited and the time spent on the site.
+
+<img src='https://github.com/user-attachments/assets/e934d83a-1f32-4dbc-b6b0-c1aae23976ca' width='700px' height='400px'>
+
+
+<br>
 
 #### Conclusion:
 This project demonstrates the power of machine learning in understanding consumer behavior and predicting purchasing intentions in an online shopping environment. By leveraging techniques such as feature engineering, model evaluation, and hyperparameter tuning, we can build accurate models that help e-commerce platforms make data-driven decisions to increase sales and improve customer retention.
