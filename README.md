@@ -51,6 +51,8 @@ Peak Revenue Months: November, with a significant spike in purchases, possibly d
 Low Revenue Months: January and August show relatively lower revenues, which could be attributed to seasonal fluctuations in shopping behavior.
 
 
+<br>
+
 #### Differences Between Bounce Rate and Exit Rate:
 
 
