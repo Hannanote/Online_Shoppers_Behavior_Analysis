@@ -9,11 +9,13 @@ This project explores the online shopping behavior of consumers, focusing on the
 
 For e-commerce platforms, an essential question is whether a customer is just browsing or is likely to make a purchase. Since customers vary widely in behavior, it’s crucial for sellers to avoid treating all users the same way. By understanding these differences, sellers can better allocate resources to attract and retain customers who are more likely to complete a purchase. Proactive strategies, such as offering time-limited discounts or free trials, can be employed to incentivize buying behavior.
 
-This project uses machine learning models to predict online shoppers' purchasing intentions, utilizing various classification algorithms to extract meaningful insights.
+The goal of this project is to analyze online shopper behavior and predict their purchase intentions. The analysis is achieved through various machine learning algorithms, offering insights that can guide resource allocation, customer engagement, and sales strategies.
+
+
 
 이 프로젝트는 소비자의 온라인 쇼핑 행동을 분석하며, 상품과 서비스를 검색하고 선택하고 구매하고 사용하며 폐기하는 과정을 중심으로 진행됩니다.
-
 전자상거래 플랫폼에서 중요한 질문 중 하나는 고객이 단순히 탐색하는 것인지 아니면 실제로 구매할 가능성이 있는지를 파악하는 것입니다. 고객들은 매우 다양하므로 판매자들이 모든 고객을 동일하게 대하지 않는 것이 중요합니다. 이러한 차이를 이해함으로써 판매자는 구매 가능성이 높은 고객을 유치하고 유지하는 데 더 많은 자원을 효율적으로 배분할 수 있습니다. 또한, 시간 한정 할인 쿠폰이나 무료 체험과 같은 적극적인 전략을 사용하여 구매를 유도할 수 있습니다.
+이 프로젝트의 목표는 온라인 쇼핑객의 행동을 분석하고 그들의 구매 의도를 예측하는 것입니다. 이 분석은 다양한 머신 러닝 알고리즘을 통해 이루어지며, 이는 리소스 할당, 고객 참여 및 판매 전략을 안내하는 데 도움이 되는 통찰을 제공합니다.
 
 
 <br>
