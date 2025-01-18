@@ -31,8 +31,6 @@ Bounce rate refers to the percentage of single-session visits, while exit rate i
 
 <img src='https://github.com/user-attachments/assets/e755470b-afef-4737-86ba-cd1ebba7bb6b' width='700px' height='400px'>
 
-![image](https://github.com/user-attachments/assets/e755470b-afef-4737-86ba-cd1ebba7bb6b)
-
 #### Implications of High Bounce and Exit Rates: 
 
 
