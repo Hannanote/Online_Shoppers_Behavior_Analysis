@@ -31,7 +31,22 @@ This project uses machine learning models to predict online shoppers' purchasing
 
 This project uses the Online Shoppers Purchasing Intention Dataset, which was collected from an online bookstore. The dataset consists of feature vectors representing 12,330 sessions, each corresponding to a unique user session over a 1-year period. The data was designed to minimize biases that could arise from specific campaigns, special days, user profiles, or time periods.
 
+Target Variable: Whether a visitor made a purchase or not. Out of 12,330 sessions, 10,422 did not result in a purchase, while 1,908 did.
+
+![Image](https://github.com/user-attachments/assets/8cf2c958-2753-4e9a-bae0-f3f9a99e2343)
+
+
 <br>
+
+#### Monthly Revenue and Contribution:
+This graph shows the monthly revenue breakdown and the percentage of total revenue for each month:
+
+![Image](https://github.com/user-attachments/assets/e76d80c6-520d-47ef-b6c3-5099152dad60)
+
+Peak Revenue Months: November, with a significant spike in purchases, possibly due to holiday shopping behaviors.
+Low Revenue Months: January and August show relatively lower revenues, which could be attributed to seasonal fluctuations in shopping behavior.
+
+
 
 #### Differences Between Bounce Rate and Exit Rate:
 
@@ -66,6 +81,9 @@ A high bounce rate could signal issues with user experience, such as poor websit
 
 
 Model Evaluation (Random Forest Classifier):
+
+The Random Forest classifier demonstrated strong predictive performance, particularly in terms of specificity, which is essential in distinguishing between potential buyers and non-buyers.
+
 - Accuracy: 0.885
 - Specificity: 0.962
 - Recall: 0.504
@@ -93,7 +111,10 @@ The feature importance plot shows the relative importance of each feature used b
 #### Conclusion:
 This project demonstrates the power of machine learning in understanding consumer behavior and predicting purchasing intentions in an online shopping environment. By leveraging techniques such as feature engineering, model evaluation, and hyperparameter tuning, we can build accurate models that help e-commerce platforms make data-driven decisions to increase sales and improve customer retention.
 
-The Random Forest classifier emerged as the most accurate model, achieving high accuracy and specificity. The feature importance analysis highlighted the importance of session-related information in predicting purchase behavior.
+Model Performance: Random Forest was the most accurate model, achieving high specificity and reasonable recall.
+
+Revenue Trends: November showed the highest number of purchases, correlating with seasonal shopping behavior. We also found that certain pages and behaviors, like browsing more product pages and spending more time on the site, were predictive of purchases.
+
 
 #### Next Steps:
 + Scalability: Explore the scalability of the model with larger datasets.
