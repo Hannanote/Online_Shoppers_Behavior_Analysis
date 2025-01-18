@@ -36,8 +36,7 @@ This project uses the Online Shoppers Purchasing Intention Dataset, which was co
 #### Target Variable: 
 Whether a visitor made a purchase or not. Out of 12,330 sessions, 10,422 did not result in a purchase, while 1,908 did.
 
-<img src='https://github.com/user-attachments/assets/8cf2c958-2753-4e9a-bae0-f3f9a99e2343' width='700px' height='400px'>
-![Image](https://github.com/user-attachments/assets/8cf2c958-2753-4e9a-bae0-f3f9a99e2343)
+<img src='https://github.com/user-attachments/assets/8cf2c958-2753-4e9a-bae0-f3f9a99e2343' width='600px' height='400px'>
 
 
 <br>
@@ -46,7 +45,7 @@ Whether a visitor made a purchase or not. Out of 12,330 sessions, 10,422 did not
 This graph shows the monthly revenue breakdown and the percentage of total revenue for each month:
 
 <img src='https://github.com/user-attachments/assets/e76d80c6-520d-47ef-b6c3-5099152dad60' width='700px' height='400px'>
-![Image](https://github.com/user-attachments/assets/e76d80c6-520d-47ef-b6c3-5099152dad60)
+
 
 Peak Revenue Months: November, with a significant spike in purchases, possibly due to holiday shopping behaviors.
 Low Revenue Months: January and August show relatively lower revenues, which could be attributed to seasonal fluctuations in shopping behavior.
